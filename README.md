@@ -7,7 +7,7 @@
 2. [Getting Started](#getting_started)
 	1. [Dependencies](#dependencies)
 	2. [Installing](#installing)
-	3. [Executing Program](#executing)
+	3. [Executing the Program](#executing)
 	4. [Notes](#notes)
 3. [Authors](#authors)
 4. [License](#license)
@@ -41,7 +41,7 @@ Clone this GIT repository:
 git clone https://github.com/geovani-montoya/Udacity-DSND_Disaster_Response_App
 ```
 <a name="executing"></a>
-### Executing Program:
+### Executing the Program:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
